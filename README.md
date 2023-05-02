@@ -1,4 +1,4 @@
-### Hi there 👋I am Nazima
+### Hi there 👋I am Nazima ![image](https://user-images.githubusercontent.com/96637721/235770148-ec40bafa-f462-4deb-91b5-dc193531d9c2.png)
 
 - 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning something amazing 🔥
