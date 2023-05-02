@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning something amazing 🔥
-- 💬 Ask me about React, JavaScript, Node JS, React native
+- 💬 Ask me about React, JavaScript, Node JS, mongoDB, SQL
 - All of my projects are available at my portfolio https://ncrown1190.github.io/Portfolio/
 
 Languages and Tools:
