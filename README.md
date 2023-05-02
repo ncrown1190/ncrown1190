@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning something amazing 🔥
 
+Languages and Tools:
+arduino babel bootstrap chartjs css3 express figma firebase git html5 javascript materialize mongodb mysql nextjs nodejs postman react reactnative redux sass tailwind 
 <!--
 **ncrown1190/ncrown1190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
