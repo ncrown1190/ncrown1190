@@ -7,7 +7,7 @@
 
 Languages and Tools:
 Angular bootstrap C# chartjs css3 express figma firebase git html5 javascript material UI mongodb sql nextjs nodejs postman react reactnative sass tailwind 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncrown1190)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ncrown1190/ncrown1190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
