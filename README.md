@@ -1,11 +1,12 @@
 ### Hi there 👋I am Nazima
 
-🔭 I’m currently working on something cool 😎
-
-🌱 I’m currently learning something amazing 🔥
+- 🔭 I’m currently working on something cool 😎
+- 🌱 I’m currently learning something amazing 🔥
+- 💬 Ask me about React, JavaScript, Node JS, React native
+- All of my projects are available at my portfolio https://ncrown1190.github.io/Portfolio/
 
 Languages and Tools:
-bootstrap chartjs css3 express figma firebase git html5 javascript materialize mongodb mysql nextjs nodejs postman react reactnative redux sass tailwind 
+Angular bootstrap chartjs css3 express figma firebase git html5 javascript material UI mongodb sql nextjs nodejs postman react reactnative sass tailwind 
 <!--
 **ncrown1190/ncrown1190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
