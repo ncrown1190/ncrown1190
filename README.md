@@ -1,6 +1,6 @@
 ### Hi there 👋I am Nazima 😎
 
-- 🔭 I’m currently working on something cool 😎
+
 - 🌱 I’m currently learning Angular and .Net MVC 🔥
 - 💬 Ask me about React, JavaScript, Node JS, mongoDB, SQL
 - All of my projects are available at my portfolio https://ncrown1190.github.io/Portfolio/
@@ -16,6 +16,7 @@ Angular bootstrap C# chartjs css3 express figma firebase git html5 javascript ma
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
