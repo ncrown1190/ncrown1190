@@ -8,7 +8,7 @@
 Languages and Tools:
 Angular | Bootstrap | C# | Chartjs | CSS | Express | Figma | firebase | git | html | Javascript | TypeScript | Material UI | MongoDB | SQL | Nodejs | Postman | React | Reactnative | Sass | Tailwind 
 
-
+-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncrown1190)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncrown1190&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
